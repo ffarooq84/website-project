@@ -32,7 +32,9 @@ navbar-links:
     - Getting started: "getstarted"
     - Featured users of this template: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Another Page: 
+  Example pages:
+    - Example of a Markdown page: "md-example"
+    - Example of an HTML page: "html-example"
   About me: "https://www.linkedin.com/in/dankerchner/"
 
 # --- Footer options --- #
