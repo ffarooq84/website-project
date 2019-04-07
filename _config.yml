@@ -30,9 +30,9 @@ navbar-links:
   Home: ""
   Resources:
     - Getting started: "getstarted"
-    - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Another Menu: ""
+    - Featured users of this template: "featured-users"
+    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
+  Another Page: 
   About me: "https://www.linkedin.com/in/dankerchner/"
 
 # --- Footer options --- #
