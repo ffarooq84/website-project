@@ -13,7 +13,7 @@ Want your website featured here? [Contact Dean Attali](http://deanattali.com/abo
 | Website | Description | Github Repository |
 | :------ |:----------- | ----------------- |
 | [repidemicsconsortium.org/](http://www.repidemicsconsortium.org/) | R Epidemics Consortium |
-| [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium | https://github.com/vimc/vimc-website |
+| [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium | [https://github.com/vimc/vimc-website](https://github.com/vimc/vimc-website) |
 | [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
 | [bigdata.juju.solutions](http://bigdata.juju.solutions) | Creating Big Data solutions Juju Solutions |
 | [joecks.github.io/clipboard-actions](http://joecks.github.io/clipboard-actions/) | Clipboard Actions - an Android app |
