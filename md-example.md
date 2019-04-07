@@ -5,10 +5,18 @@ subtitle: Subtitle goes here
 bigimg: /img/start.jpg
 ---
 
-**Beautiful Jekyll** is a ready-to-use template to make help you create an awesome Jekyll or GitHub Pages website quickly. 
-
-To learn how you can use **Beautiful Jekyll** to create your website in minutes, go to the [Beautiful Jekyll GitHub page](https://github.com/daattali/beautiful-jekyll#readme).
-
 ## Here is where we can insert an image:
 
 ![GW Data Science logo](/img/gwdsp.png)
+
+## How about a link?
+
+And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
+
+## Or some code?
+
+Some code might go here:
+
+```
+x <- 5 # Here's some R code
+```
