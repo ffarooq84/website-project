@@ -5,7 +5,7 @@ title: Featured users
 
 To my huge surprise, Beautiful Jekyll has been used in over 500 websites in its first 6 months alone! Here is a hand-picked selection of some websites that use Beautiful Jekyll.
 
-Want your website featured here? [Contact me](http://deanattali.com/aboutme#contact) to let me know about your website.
+Want your website featured here? [Contact Dean Attali](http://deanattali.com/aboutme#contact) to let him know about your website.
 
 ### Project/company websites
 
