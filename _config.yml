@@ -14,10 +14,10 @@ baseurl: "/myproject-beautiful-jekyll"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Beautiful Jekyll
+title: My Data Science Project
 
 # Short description of your site
-description: Quickly build a beautiful Jekyll website
+description: Here's the description of my porject
 
 # --- Navigation bar options --- #
 
